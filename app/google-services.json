@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684528177546",
+    "project_id": "message-app-66135",
+    "storage_bucket": "message-app-66135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684528177546:android:cf3cd66deceb0d44433873",
+        "android_client_info": {
+          "package_name": "com.example.messageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684528177546-75eqekcqeffs1sh16r14d0648csmlf7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6JK9Q1Q0qR3ySK8cUKqEL9as5N4lFUaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684528177546-75eqekcqeffs1sh16r14d0648csmlf7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
